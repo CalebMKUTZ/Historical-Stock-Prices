@@ -6,7 +6,7 @@ import requests
 url = "https://global-market-data.p.rapidapi.com/stock/historical_data"
 
 headers = {
-	"X-RapidAPI-Key": "7e13738764mshf269b65b399187fp1b41e2jsnbdf68f29276b",
+	"X-RapidAPI-Key": "******************************************", # ENTER YOUR OWN API KEY FOR RAPID-API
 	"X-RapidAPI-Host": "global-market-data.p.rapidapi.com"
 }
 
